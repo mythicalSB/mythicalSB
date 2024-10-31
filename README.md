@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from india</h3>
 <img align="right" alt="coding" width="400" src="https://user- images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mythicalsb&label=Profile%20views&color=0e75b6&style=flat" alt="mythicalsb" /> </p>
+<p align="left"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fcipherhacker%2Fcipherhacker&psig=AOvVaw3HdNC5z3UpA3YgFM4ss4Yx&ust=1730457563863000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMDqkuK3uIkDFQAAAAAdAAAAABBi" alt="mythicalsb" /> </p>
 
 - 🌱 I’m currently learning **Python‚JavaScript**
 
